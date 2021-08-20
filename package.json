@@ -1,0 +1,19 @@
+{
+  "name": "application-strucature-sandbox-for-web-frontend",
+  "version": "0.0.1",
+  "description": "ウェブフロントエンドにおけるアプリケーションの構造について考えるための砂場",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eiel/application-strucature-sandbox-for-web-frontend.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eiel/application-strucature-sandbox-for-web-frontend/issues"
+  },
+  "homepage": "https://github.com/eiel/application-strucature-sandbox-for-web-frontend#readme"
+}
