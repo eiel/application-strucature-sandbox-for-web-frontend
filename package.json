@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/eiel/application-strucature-sandbox-for-web-frontend#readme",
   "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1",
     "prettier": "^2.3.2",
     "typescript": "^4.3.5"
   }
