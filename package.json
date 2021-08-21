@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/eiel/application-strucature-sandbox-for-web-frontend/issues"
   },
-  "homepage": "https://github.com/eiel/application-strucature-sandbox-for-web-frontend#readme"
+  "homepage": "https://github.com/eiel/application-strucature-sandbox-for-web-frontend#readme",
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
 }
