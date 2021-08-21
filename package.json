@@ -2,6 +2,9 @@
   "name": "application-strucature-sandbox-for-web-frontend",
   "version": "0.0.1",
   "description": "ウェブフロントエンドにおけるアプリケーションの構造について考えるための砂場",
+  "workspaces": [
+    "packages/core"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,6 +21,10 @@
   "homepage": "https://github.com/eiel/application-strucature-sandbox-for-web-frontend#readme",
   "devDependencies": {
     "@tsconfig/recommended": "^1.0.1",
+    "@typescript-eslint/eslint-plugin": "^4.29.2",
+    "@typescript-eslint/parser": "^4.29.2",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
     "prettier": "^2.3.2",
     "typescript": "^4.3.5"
   }
